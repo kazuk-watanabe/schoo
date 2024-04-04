@@ -1,2 +1,4 @@
-これはサンプルファイルです。
-別名で保存して使う事
+tmp
+my faverite food : bread
+
+
